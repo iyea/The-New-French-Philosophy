@@ -38,9 +38,9 @@ Marion 此时的思考与 Derrida（关于在场形而上学）和 Levinas（关
 
 Reduction and Givenness 的开篇惊人地把尼采和胡塞尔串起来了。Marion 认为这两者共同之处在于，尼采和胡塞尔都试图通过肯定一个 appearance 领域，来将思想从形而上学的偏见中解放出来，而这个 appearance 领域应该不依赖于任何隐秘的或更高的现实领域地被思考。胡塞尔与尼采的这种一致性，无论多么令人惊讶，对于 Reduction and Givenness 论证的展开方式都具有决定性意义。
 
-根据胡塞尔，现象学家只会描述感性直觉或知觉中内在给定的事物，其余一切都将被括起来。Marion 进一步激进地坚持：相比于其他现象学的概念，givenness 是最优先的，不受到任何条件制约，并且意识对被感知现象的意向性指向、感官建构行为、先验自我等等，都可以被还原（reduce）。如果 the giving of that which is given，其他实例都不会像这样发挥作用：intuition（直观）将缺乏内容，intentionality（意向性）将没有任何东西可以引导自己，也不会有任何 apparent 或 sensible 的形式来构成 sense（意义）。基于此，Marion 提出他的现象学公理：so much reduction, so much givenness。人们越是 reduce，the giving of the given 就越是作为不可约的、独立的、无条件的 givenness 被孤立出来。
+根据胡塞尔，现象学家只会描述感性直觉或知觉中内在给定的事物，其余一切都将被括起来。Marion 进一步激进地坚持：相比于其他现象学的概念，givenness 是最优先的，不受到任何条件制约，并且意识对被感知现象的意向性指向、感官建构行为、先验自我等等，都可以被还原（reduce）。如果没有 the giving of that which is given，那么其他实例都不会像这样发挥作用：intuition（直观）将缺乏内容，intentionality（意向性）将没有任何东西可以引导自己，也不会有任何 apparent 或 sensible 的形式来构成 sense（意义）。基于此，Marion 提出他的现象学公理：so much reduction，so much givenness。人们越是 reduce，the giving of the given 就越是作为不可约的、独立的、无条件的 givenness 被孤立和凸显出来。
 
-我们可以说，Marion 对胡塞尔的激进化，也正是对笛卡尔的激进化。givenness 如同笛卡尔的 我思，在此呈现为必然被肯定为确定性或证据的东西，而其他一切都可以被斥为 illusion（幻想）。正是由于 givenness 绝对的不可还原性、无条件性和不容置疑性，使得 Marion 认为，胡塞尔以及随后的海德格尔在各自的现象学研究中未能恰当地探究 givenness 的彻底性：
+我们可以说，Marion 对胡塞尔的激进化，也正是对笛卡尔的激进化。Givenness 如同笛卡尔的 我思，在此呈现为必然被肯定为确定性或证据的东西，而其他一切都可以被斥为 illusion（幻想）。正是由于 givenness 绝对的不可还原性、无条件性和不容置疑性，使得 Marion 认为，胡塞尔以及随后的海德格尔在各自的现象学研究中未能恰当地探究 givenness 的彻底性：
 
 1. 胡塞尔的还原只是把 phenomenality（现象性）囚禁在 objectality（对象化、客体性）的视域之内。
 2. 海德格尔的还原只是把 phenomenality（现象性）囚禁在 being（存在）以及其在 Dasein 的 worldly（世俗化）的和 temporality（时间性）的 beings（存在者）中被 disclosure（揭示）的视域之内。
@@ -108,7 +108,7 @@ Marion 认为，saturated phenomena 的主要特征是出乎意料、不可预�
 3. Flesh，它指向自身和展现自身，是 auto-affection 的，在意识的对象化之前就已经存在。
 4. Icon，它是绝对陌生和不可能的超越，它们不是被 inten­tional directedness 的，而是把它自身强加于我们。比如 Levinas 的他者，还有 Marion 意义上的上帝。它们无法被我们凝视，相反，我们被它们凝视。
 
-以及，Marion 认为还有最后一种能够综合前 4 种不可能性的，就是 Revelation。由于现象性的空间如今已扩展到涵盖不可见的和客观上不可呈现的体验，因此，将 Revelation 纳入现象学的正当关怀之列或许合乎逻辑。（在这里，我们仍然可以追问 Marion 的现象学思想是否过于巧妙地为基督教，特别是罗马天主教的宗教体验模式或神学形式铺平了道路。）
+以及，Marion 认为还有最后一种能够综合前 4 种 saturated phenomena 特点的 saturated phenomena，就是 Revelation。现在，由于现象性如今已扩展到涵盖不可见的和客观上不可呈现的体验，因此，Marion 将 Revelation 纳入现象学的正当关怀之列或许合乎逻辑。（在这里，我们仍然可以追问 Marion 的现象学思想是否过于巧妙地为基督教，特别是罗马天主教的宗教体验模式或神学形式铺平了道路。）
 
 Marion 认为以上这些 saturated phenomena 并不是他突然拍脑袋想起来的，而是受到了以下影响：
 
