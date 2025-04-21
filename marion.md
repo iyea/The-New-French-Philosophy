@@ -30,7 +30,7 @@ Marion 的著作分成 3 部分：
 
 毫不奇怪，The Idol and Distance 包含了对否定神学传统的详细探讨（以伪狄奥尼修斯为代表，他的著作写于公元 5 世纪末和 6 世纪初）。对于一部神学著作来说，也许更出人意料的是，它还包含了对尼采 上帝之死 主题的持续解读。马里翁在此论证，尼采宣告的只是形而上学之神（存在、实体等等之神，也就是 Idol）的死亡，而尼采式的 Idol 的黄昏，留下了一个缺席的空间，正是由于它的缺席和撤离，才更能被称之为神圣。在 Marion 看来，尼采思想中神圣性的这种持续性，最明显地体现在基督及其类似基督的人物（反基督者、狄俄尼索斯、查拉图斯特拉等等）的萦绕下。
 
-他此时的思考与 Derrida（关于在场形而上学）和 Levinas（关于他者的绝对）的哲学关怀颇为契合。
+Marion 此时的思考与 Derrida（关于在场形而上学）和 Levinas（关于他者的绝对）的哲学关怀颇为契合。
 
 因此，Marion 面对的问题和 Levinas 是一样的：思想如何摆脱在场形而上学的约束，从而能够思考他者（上帝）的绝对？Marion 认为：只剩下一条道路：使自己暴露于那些已经不再属于它的东西。这种思维方式或路径可以说定义了 Marion 在其后期更严格的现象学著作中解读胡塞尔和海德格尔的哲学策略。
 
@@ -60,29 +60,70 @@ Being Given 出版于 Reduction and Givenness 八年后。开篇题为初步回�
 
 例如 Marion 强调现象的 pure givenness 摆脱了所有其他权威的限制，包括 intuition。这些重申导致对 being 与 givenness 关系问题的更尖锐的重新表述。Marion 强调，being 受到在先的 givenness 所制约（这里的 being 说的是现象学的 being，根据现象学，说某物 being 的意思就是某物可以在 intuition 中 given），而 givenness 本身是绝对的、不可还原的和不受条件限制的。换句话说，being 始终且仅是 event of being given（被给予的事件），如果没有 givenness，没有任何东西能够 appear，不 appear 就没办法说它是 being 的。
 
-以上关于 being 和 givenness 的关系，使得 Marion 可以回应 Derrida 对于 gift 的思考。Derrida 的论点众所周知：如果 giving 的行为是存粹的，那么 giver 就不能要求任何回报，giver 也不承认任何责任和义务，无论是在当下还是在某种未来的延迟过程。否则，giving 的行为就不再是纯粹的，而是某种经济学意义上的交换过程，是带着交易的目的来的。然而，Derrida 坚持认为，只要 giver 送出了 gift，知道了自己触发过 giving 行为，就会产生行善、慷慨、自我欣赏、自恋式感动的情感，这些自我满足感会立即毁掉 gift 的概念，陷入了经济学的交易秩序。
+以上关于 being 和 givenness 的关系，使得 Marion 可以回应 Derrida 对于 gift 的思考。Derrida 的论点众所周知：如果 giving 的行为是存粹的，那么 giver 就不能要求任何回报，giver 也不承认任何责任和义务，无论是在当下还是在某种未来的延迟过程。否则，giving 的行为就不再是纯粹的，而是某种经济学意义上的交换过程，是带着交易的目的来的。Derrida 坚持认为，只要 giver 送出了 gift，知道了自己触发过 giving 行为，就会产生行善、慷慨、自我欣赏、自恋式感动的情感，这些自我满足感会立即毁掉 gift 的概念，陷入了经济学的交易秩序。
 
-Marion 认为，Derrida 对 gift 的思考，仅仅适用于 源自人类学和社会学的 giving 模型（确实是按照经济形式来运作的），而不适用于 Marion 上述提到的现象学的 giving 模型（可以不按照经济形式来运作）。因为对于 Marion 而言，现象学的 giving 模型本来就是不对称的，givenness 具有绝对的优先性，它可以完全外在于经济的视域，外在于存在论、知识、述谓句、理论规定和判断，甚至可以外在于 intuition，以至于可以不必 present（在场）。实际上，根据 Marion，Derrida 的任何对在场形而上学的解构，都无法撼动不可还原、绝对和无条件的 givenness。
+但是，Marion 因为其神学背景，举出了存在 gift 的例子，比如上帝对我们的爱。我们和上帝并不是经济交换的关系（上帝救赎我，所以我信仰上帝是有好处的），而是我对上帝绝对的无条件的信仰，和上帝对我绝对的、无条件的救赎。上帝的 giving 就是纯粹的 gift。
 
-关于 Marion 和 Derrida 争论的核心在于，究竟谁是优先性的：
+所以，Marion 认为，Derrida 对 gift 的思考，仅仅适用于 源自人类学和社会学的 giving 模型（它确实是按照经济形式来运作的），而不适用于 Marion 上述提到的现象学的 giving 模型（它可以不按照经济形式来运作）。因为对于 Marion 而言，givenness 具有绝对的优先性，它可以完全外在于经济的视域，外在于存在论、知识、述谓句、理论规定和判断，甚至可以外在于 intuition，甚至可以不必 present（在场），这样就抵御住了 Derrida 认为 gift 在其 present 中使得自身消失的观点。
+
+真正说来，关于 Marion 和 Derrida 争论的核心在于究竟谁是优先性的：
 
 1. Marion 将 giving of appearance（显现的给予）置于现象性的本原性和无条件性的位置。
 2. Derrida 将 temporal and temporalizing economy of différance（延异的时间和时间性的经济）置于现象性的本原性和无条件性的位置。
 
 根据两人的差异，Marion 会指责 Derrida 的现象性受到 temporalizing economy 的制约，从而是在场形而上学；同样地，Derrida 会指责 Marion 的现象性受到 giving 的制约，从而是在场形而上学。
 
-关键是 tempora­lity（时间性）的问题：
+真正说来，关键是 tempora­lity（时间性）的问题：
 
-1. 在 Being Given 书中，Marion 或许略显草率且略显欠缺地指出，tempora­lity 只能从 the event of phenomenal appearance，或此类 event 的 rhythmic succession（节奏性连续）中产生。
-2. Derrida 当然会提出相反的观点：tempora­lity 是 an economy of spatializing and temporalizing inscrip­tion of the trace（空间性和时间性的踪迹的铭刻的经济性），并且赋予了 appearance；而且，这种 economy 无法被还原为形而上学的奠基原则，因为它超越了所有本体论的 reduction 或 disclosure 的可能性，因此也超越了所有基础或根据的逻辑。
+1. 在 Being Given 书中，Marion 或许略显草率且略显欠缺地指出，temporality 只能从 the event of phenomenal appearance，或此类 event 的 rhythmic succession（节奏性连续）中产生。
+2. Derrida 当然会提出相反的观点，认为 tempora­lity 是 an economy of spatializing and temporalizing inscrip­tion of the trace（一种经济性，这种经济性是踪迹的空间性和时间性铭刻），这种 economy 赋予了 appearance，超越了任何 reduction 或 disclosure 的可能性，超越了任何形而上学基础。
 
 问题就在于：是 giving of appearance 赋予了 temporality（Marion），还是 temporality 赋予了 appearance（Derrida）？
 
-可以说，Marion 现象学的局限性在这里开始显现。
+可以说，Marion 现象学的局限性在这里开始显现。Marion 认为 givenness 优先于任何 trace 或者 différance 的 economy，这或许过于激进化了。以及上文提到的，Marion 也没有认真对待 presence、intuition、sig­nification、conceptuality 等等重要的现象学概念，对它们的起源问题没有关注。Derrida 关于这些概念的起源的研究，是 Derrida 对现象学最大的贡献。但是 Marion 却仍然坚持起源的匿名性，只有超越我们理解的 givenness。这也让 Marion 的现象学和神学离得很近，引人担忧。
 
-// TODO
+上面提到过，Dominique Janicaud 就曾批评 Marion 的现象学是神学转向的。Dominique Janicaud 对 Marion 的批评有 2 方面：
 
+1. Givenness 现象学在理解现象本身时，过于空洞和抽象。现象被剥离成一种单薄的或极小的 givenness。
+2. Givenness 现象学的极简主义模式使得 phenomenality（现象性）可以被赋予神学主题和关切。Marion 的现象学仅仅是神学的否定性的预备。
 
+根本地，Dominique Janicaud 认为 Marion 的现象学完成了某种方法论的漂移，使得他的现象学已经脱离了胡塞尔现象学的真正关切。
 
+Marion 在 Being Given 书对 Dominique Janicaud 的两个问题提供了回应：
 
+1. Marion 没有试图降低现象性的丰富性或密度，因为如果这种丰富性是 given 的，那么在第三次还原的过程中，它必然会得到解释。
+2. Marion 认为，自己关于现象学的立场，即把 givenness 绝对化和优先化，不需要借助于神学的力量。他的论证都建立在对胡塞尔可论证的忠诚之上。
 
+如果说第三次还原的发现代表了 Reduction and Givenness 的高潮，那么对 saturated phenomena（饱和现象）的识别和详细阐述无疑构成了 Being Given 最后几章的重点。在 Being Given 中，Marion 将大多数现象描述为可分为两类：
+
+1. poor in intuition 的现象，比如数学公式和观念对象，它们的构成源于 signifying intention（意指性意向）的过度，理解它们甚至不需要 sensible intuition。
+2. common-law 的现象，比如在制造物和技术物中。技术物的理念或抽象设计（intention）总是先于它的制造或呈现（sensible intuition），并且两者缺乏精确的对应性。
+
+然而，根据第三种还原，可以证明 givenness 先于 intention、signification 以及任何类型的范畴或概念，这一事实对 Marion 来说意味着，人们可以设想第三种类型的现象，这种现象将以相反的方式构成，即 purely intuitive givenness 超出了任何 intentionality 或者 concept 的视界。在这种现象中，intuitive 所能 giving 的比 intention 所指向和瞄准的更多，甚至是无限的多。这就是 saturated phenomena（饱和现象）。
+
+Marion 认为，saturated phenomena 的主要特征是出乎意料、不可预见、无法被在先地和明确地意向、无法被固定的表意形式进行充分描述或规定。Saturated phenomena 仿佛绝对地、不受任何已理解的、生活经验的制约或类比地 self-giving。Marion 认为有 4 种 saturated phenomena：
+
+1. Event，它的发生是不可预见的，也是不可重演的，它将自身强加于个体，超越了任何个体的 inten­tional directedness。但是对 Event 的理解和评价却是跨越时间而无限的。
+2. Idol，它过于炫目，我们无法看清。比如绘画，任何意识的范畴都无法明确解释绘画所展现的过多的 sensible intuition。它的意义和对它的解释，也和 Event 一样，是被无限推迟的。
+3. Flesh，它指向自身和展现自身，是 auto-affection 的，在意识的对象化之前就已经存在。
+4. Icon，它是绝对陌生和不可能的超越，它们不是被 inten­tional directedness 的，而是把它自身强加于我们。比如 Levinas 的他者，还有 Marion 意义上的上帝。它们无法被我们凝视，相反，我们被它们凝视。
+
+以及，Marion 认为还有最后一种能够综合前 4 种不可能性的，就是 Revelation。由于现象性的空间如今已扩展到涵盖不可见的和客观上不可呈现的体验，因此，将 Revelation 纳入现象学的正当关怀之列或许合乎逻辑。（在这里，我们仍然可以追问 Marion 的现象学思想是否过于巧妙地为基督教，特别是罗马天主教的宗教体验模式或神学形式铺平了道路。）
+
+Marion 认为以上这些 saturated phenomena 并不是他突然拍脑袋想起来的，而是受到了以下影响：
+
+1. 笛卡尔的无限性观念（关于 Icon）。
+2. 康德的崇高美学（关于 Idol）。
+3. 胡塞尔的内时间意识（关于 Flesh）。
+
+当然，我们还能看出其他哲学家的影响，比如德乐兹、Badiou、拉康、梅洛庞蒂、Derrida、Levinas 等等。这些哲学家的共同点是都为了主体性的消亡添油加醋。
+
+总之，saturated phenomena 强调了现象的 self-giving 的 givenness，主体从现在开始被降格了。现象的构成不再来源于主体的构成意识，而来源于 saturated phenomena 本身的超越视角和 self-giving。主体只是纯粹的接受者，是宾格和与格。这种构成性与被构成性的逆转，对主体的贬低和对物质性的强调，在某种程度上类似于或呼应了第六章和第七章中讨论的 Badiou 和 Laruelle 的反康德主义。我们将在结论部分整体评估。
+
+总得来说，我们赞成 Dominique Janicaud 的批评。在 saturated phenomena 上面，Marion 确实严重背离了胡塞尔。对于胡塞尔，现象要想显现出来，必须要有主体的指向性的视域作为背景。任何对象的显现，都必然伴随着主体的构成性理解，甚至对于晚期胡塞尔而言，还伴随着主体的被构成（历史、传统等等生成概念）。Marion 彻底忽视了现象学的主体构成性和解释学的维度。
+
+因此，Marion 并没有忠于胡塞尔，而是开拓了现象学 在经过结构主义和后结构主义对主体的批判后的 新的可能性。Marion 的现象学是开创性的。
+
+## Saturation 和 Self
+
+（重点内容在上面都讨论过，略。）
