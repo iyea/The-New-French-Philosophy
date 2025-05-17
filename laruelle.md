@@ -2,7 +2,7 @@
 
 从 1980 年以来，Laruelle 寻求与整个哲学本身彻底决裂，提出了所谓非哲学的新的话语姿态。
 
-Laruelle 从 1971 年出版的第一篇作品 The Phenomenon and Difference 以来，把自己的职业生涯分成了 5 个阶段，分别用 Philosophy I、Philosophy II、Philosophy III 等等来代替。在第一阶段，他还进行传统的差异哲学探索，但是在 Philosophy II 之后，Laruelle 就在寻求非哲学视角的根本转变。
+Laruelle 从 1971 年出版的第一篇作品 The Phenomenon and Difference 以来，把自己的职业生涯分成了 5 个阶段，分别用 Philosophy I、Philosophy II、Philosophy III 等等来代替。在 Philosophy I，他还进行传统的差异哲学探索，但是在 Philosophy II 之后，Laruelle 就在寻求非哲学视角的根本转变。
 
 Laruelle 受到 尼采、海德格尔、Derrida 和 Deleuze 的差异哲学影响，也处于 阿尔都塞、列维斯特劳斯、拉康 的 结构主义 的思想轨迹中，评论家也把他和 Levinas 做对比。同时他还受到 Klossowski 的影响。
 
